@@ -53,6 +53,9 @@
 //        SQLite, e.g. COALESCE() with only a single argument.
 //      * RIGHT OUTER JOIN is not supported by SQLite.
 // 
+//  (Above list taken from 
+//    https://www.quora.com/Can-the-same-SQL-query-in-MySQL-be-used-in-sqlite)
+//
 //  Note that all of these "goodies" that MySQL has doesn't necessarily make it
 //  superior to SQLite... it also has a HUGE footprint that would make it
 //  inappropriate for a mobile application, where SQLite3 would excel.
