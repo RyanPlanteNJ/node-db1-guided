@@ -11,3 +11,11 @@ In this project we will cover the basics of `Structure Query Language (SQL)`, `R
 - [ ] fork and clone this repository.
 - [ ] **CD into the folder** where you cloned **your fork**.
 - [ ] type `npm i` to download dependencies.
+
+- See the following files for notes:
+    - index.js, 
+    - server.js
+    - knexfile.js, 
+    - ./data/db-config.js, 
+    - ./posts/post-router.js
+    - chinook.sql
